@@ -152,17 +152,47 @@ A responsive, interactive personal portfolio built with React.js showcasing skil
 
 ## 📊 GitHub Statistics
 
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-dan686&show_icons=true&hide_border=true&theme=transparent&icon_color=F97316&title_color=F97316&text_color=6B7280" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dan686&layout=compact&hide_border=true&theme=transparent&title_color=F97316&text_color=6B7280" height="165" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=m-dan686&bg_color=0D1117&color=F97316&line=22C55E&point=F97316&area=true&hide_border=true"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=m-dan686&hide_border=true&background=transparent&ring=F97316&fire=EA580C&currStreakLabel=F97316&sideLabels=6B7280&dates=6B7280" />
+<a href="https://github.com/m-dan686">
+  <img
+    src="https://img.shields.io/github/followers/m-dan686?label=Followers&style=for-the-badge&color=166534"
+    alt="GitHub Followers"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/m-dan686?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-Explore-F97316?style=for-the-badge&logo=github&logoColor=white"
+    alt="Public Repositories"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/m-dan686?tab=stars">
+  <img
+    src="https://img.shields.io/badge/Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
+</a>
 
 </div>
 
