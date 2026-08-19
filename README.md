@@ -53,16 +53,8 @@ I build application-oriented projects across **software development, artificial 
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="tech-stack.svg" alt="Animated technology stack visualization" width="100%"/>
+<img src="tech-stack.svg" alt="Animated technology stack showing Python, Java, C++, HTML5, CSS3, JavaScript, React.js, AI, Machine Learning, Data Science, MySQL, Git and GitHub" width="100%"/>
 </div>
-
-**Languages:** Python · Java · C++
-
-**Web:** HTML5 · CSS3 · JavaScript · React.js
-
-**AI / ML / Data:** Artificial Intelligence · Machine Learning · Data Science
-
-**Database & Tools:** MySQL · Git · GitHub
 
 ## 🔧 Engineering Workflow
 
