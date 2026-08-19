@@ -58,6 +58,7 @@ I build application-oriented projects across **software development, artificial 
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
 <br/><sub><b>Python</b></sub>
@@ -87,9 +88,11 @@ I build application-oriented projects across **software development, artificial 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
 <br/><sub><b>JavaScript</b></sub>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React.js"/>
 <br/><sub><b>React.js</b></sub>
@@ -115,10 +118,6 @@ I build application-oriented projects across **software development, artificial 
 <br/><sub><b>GitHub</b></sub>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55" alt="Visual Studio Code"/>
-<br/><sub><b>VS Code</b></sub>
-</td>
 </tr>
 </table>
 
@@ -128,14 +127,25 @@ I build application-oriented projects across **software development, artificial 
 
 <table>
 <tr>
+
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/chatgpt/FFFFFF" width="55" height="55" alt="ChatGPT"/>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="ChatGPT"/>
 <br/><sub><b>ChatGPT</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI Codex"/>
+<br/><sub><b>Codex</b></sub>
 </td>
 
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/>
 <br/><sub><b>Claude</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude Code"/>
+<br/><sub><b>Claude Code</b></sub>
 </td>
 
 <td align="center" width="140">
@@ -148,10 +158,35 @@ I build application-oriented projects across **software development, artificial 
 <br/><sub><b>GitHub Copilot</b></sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="140">
-<img src="https://www.antigravity.google/favicon.svg" width="55" height="55" alt="Google Antigravity"/>
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="55" height="55" alt="Cursor"/>
+<br/><sub><b>Cursor</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/replit/F26207" width="55" height="55" alt="Replit"/>
+<br/><sub><b>Replit</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/manus/FFFFFF" width="55" height="55" alt="Manus"/>
+<br/><sub><b>Manus</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/amazonq/FFFFFF" width="55" height="55" alt="Amazon Q"/>
+<br/><sub><b>Amazon Q</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://antigravity.google/favicon.svg" width="55" height="55" alt="Google Antigravity"/>
 <br/><sub><b>Antigravity</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -161,46 +196,36 @@ I build application-oriented projects across **software development, artificial 
 
 <table>
 <tr>
+
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55" alt="Visual Studio Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="Visual Studio Code"/>
 <br/><sub><b>VS Code</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/intellijidea/FFFFFF" width="55" height="55" alt="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA"/>
 <br/><sub><b>IntelliJ IDEA</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="55" height="55" alt="Eclipse IDE"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="55" height="55" alt="Eclipse"/>
 <br/><sub><b>Eclipse</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/pycharm/21D789" width="55" height="55" alt="PyCharm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="55" height="55" alt="PyCharm"/>
 <br/><sub><b>PyCharm</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/spyderide/FF0000" width="55" height="55" alt="Spyder"/>
-<br/><sub><b>Spyder</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" width="55" height="55" alt="Spyder"/>
+<br/><sub><b>Spyder"/>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/devcpp/FFFFFF" width="55" height="55" alt="Dev-C++"/>
-<br/><sub><b>Dev-C++</b></sub>
-</td>
 </tr>
 </table>
 
-</div>
-## 🔧 Engineering Workflow
-
-<div align="center">
-<img src="workflow.svg" alt="Animated engineering workflow from idea to deployment" width="100%"/>
-</div>
-
-## 🚀 Featured Projects
+</div>## 🚀 Featured Projects
 
 <table>
 <tr>
