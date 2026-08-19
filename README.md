@@ -129,32 +129,32 @@ I build application-oriented projects across **software development, artificial 
 <tr>
 
 <td align="center" width="140">
-<img src="https://cdn.openai.com/API/images/openai-logomark.svg" width="55" height="55" alt="OpenAI"/>
+<img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128" width="55" height="55" alt="ChatGPT"/>
 <br/><sub><b>ChatGPT</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.openai.com/API/images/openai-logomark.svg" width="55" height="55" alt="OpenAI Codex"/>
+<img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128" width="55" height="55" alt="OpenAI Codex"/>
 <br/><sub><b>Codex</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/>
+<img src="https://www.google.com/s2/favicons?domain=claude.ai&sz=128" width="55" height="55" alt="Claude"/>
 <br/><sub><b>Claude</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude Code"/>
+<img src="https://www.google.com/s2/favicons?domain=claude.ai&sz=128" width="55" height="55" alt="Claude Code"/>
 <br/><sub><b>Claude Code</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Google Gemini"/>
+<img src="https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128" width="55" height="55" alt="Google Gemini"/>
 <br/><sub><b>Gemini</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="55" height="55" alt="GitHub Copilot"/>
+<img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="55" height="55" alt="GitHub Copilot"/>
 <br/><sub><b>GitHub Copilot</b></sub>
 </td>
 
@@ -163,35 +163,34 @@ I build application-oriented projects across **software development, artificial 
 <tr>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="55" height="55" alt="Cursor"/>
+<a href="https://cursor.com/">
+<img src="https://www.cursor.com/assets/images/logo.svg" width="55" height="55" alt="Cursor"/>
+</a>
 <br/><sub><b>Cursor</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/replit/F26207" width="55" height="55" alt="Replit"/>
+<img src="https://www.google.com/s2/favicons?domain=replit.com&sz=128" width="55" height="55" alt="Replit"/>
 <br/><sub><b>Replit</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/manus/FFFFFF" width="55" height="55" alt="Manus"/>
+<img src="https://www.google.com/s2/favicons?domain=manus.im&sz=128" width="55" height="55" alt="Manus"/>
 <br/><sub><b>Manus</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="55" height="55" alt="Amazon Q"/>
+<img src="https://www.google.com/s2/favicons?domain=q.aws.amazon.com&sz=128" width="55" height="55" alt="Amazon Q"/>
 <br/><sub><b>Amazon Q</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://antigravity.google/favicon.svg" width="55" height="55" alt="Google Antigravity"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg" width="55" height="55" alt="Google Antigravity"/>
 <br/><sub><b>Antigravity</b></sub>
 </td>
 
 </tr>
 </table>
-
-<br/>
-
 ### 🛠️ IDEs & Development Tools
 
 <table>
@@ -224,7 +223,6 @@ I build application-oriented projects across **software development, artificial 
 
 </tr>
 </table>
-</div>
 
 ## 🚀 Featured Projects
 
