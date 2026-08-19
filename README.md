@@ -53,7 +53,29 @@ I build application-oriented projects across **software development, artificial 
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="tech-stack.svg" alt="Animated technology stack showing Python, Java, C++, HTML5, CSS3, JavaScript, React.js, AI, Machine Learning, Data Science, MySQL, Git and GitHub" width="100%"/>
+
+<img src="https://cdn.simpleicons.org/python" width="60" height="60" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk" width="60" height="60" alt="Java"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus" width="60" height="60" alt="C++"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="60" height="60" alt="HTML5"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css" width="60" height="60" alt="CSS3"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" width="60" height="60" alt="JavaScript"/>
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React.js"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="60" height="60" alt="MySQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="60" height="60" alt="Git"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="60" height="60" alt="GitHub"/>
+
 </div>
 
 ## 🔧 Engineering Workflow
