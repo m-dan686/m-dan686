@@ -129,12 +129,12 @@ I build application-oriented projects across **software development, artificial 
 <tr>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="ChatGPT"/>
+<img src="https://cdn.openai.com/API/images/openai-logomark.svg" width="55" height="55" alt="OpenAI"/>
 <br/><sub><b>ChatGPT</b></sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI Codex"/>
+<img src="https://cdn.openai.com/API/images/openai-logomark.svg" width="55" height="55" alt="OpenAI Codex"/>
 <br/><sub><b>Codex</b></sub>
 </td>
 
@@ -178,7 +178,7 @@ I build application-oriented projects across **software development, artificial 
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/amazonq/FFFFFF" width="55" height="55" alt="Amazon Q"/>
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="55" height="55" alt="Amazon Q"/>
 <br/><sub><b>Amazon Q</b></sub>
 </td>
 
@@ -219,13 +219,14 @@ I build application-oriented projects across **software development, artificial 
 
 <td align="center" width="140">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" width="55" height="55" alt="Spyder"/>
-<br/><sub><b>Spyder"/>
+<br/><sub><b>Spyder</b></sub>
 </td>
 
 </tr>
 </table>
+</div>
 
-</div>## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
