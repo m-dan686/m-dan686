@@ -54,30 +54,146 @@ I build application-oriented projects across **software development, artificial 
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python" width="60" height="60" alt="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk" width="60" height="60" alt="Java"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus" width="60" height="60" alt="C++"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="60" height="60" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css" width="60" height="60" alt="CSS3"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="60" height="60" alt="JavaScript"/>
+### 💻 Languages & Development
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+<br/><sub><b>Python</b></sub>
+</td>
 
-<img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="60" height="60" alt="MySQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="60" height="60" alt="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="60" height="60" alt="GitHub"/>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
+<br/><sub><b>Java</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
+<br/><sub><b>C++</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
+<br/><sub><b>HTML5</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
+<br/><sub><b>CSS3</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
+<br/><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React.js"/>
+<br/><sub><b>React.js</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/>
+<br/><sub><b>Spring Boot</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
+<br/><sub><b>MySQL</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+<br/><sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+<br/><sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55" alt="Visual Studio Code"/>
+<br/><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🤖 AI & AI Coding Tools
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/chatgpt/FFFFFF" width="55" height="55" alt="ChatGPT"/>
+<br/><sub><b>ChatGPT</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/>
+<br/><sub><b>Claude</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Google Gemini"/>
+<br/><sub><b>Gemini</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="55" height="55" alt="GitHub Copilot"/>
+<br/><sub><b>GitHub Copilot</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://www.antigravity.google/favicon.svg" width="55" height="55" alt="Google Antigravity"/>
+<br/><sub><b>Antigravity</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ IDEs & Development Tools
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55" alt="Visual Studio Code"/>
+<br/><sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/intellijidea/FFFFFF" width="55" height="55" alt="IntelliJ IDEA"/>
+<br/><sub><b>IntelliJ IDEA</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="55" height="55" alt="Eclipse IDE"/>
+<br/><sub><b>Eclipse</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/pycharm/21D789" width="55" height="55" alt="PyCharm"/>
+<br/><sub><b>PyCharm</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/spyderide/FF0000" width="55" height="55" alt="Spyder"/>
+<br/><sub><b>Spyder</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/devcpp/FFFFFF" width="55" height="55" alt="Dev-C++"/>
+<br/><sub><b>Dev-C++</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
-
 ## 🔧 Engineering Workflow
 
 <div align="center">
