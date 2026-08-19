@@ -139,24 +139,37 @@ A responsive, interactive personal portfolio built with React.js showcasing skil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-dan686&show_icons=true&theme=dark&bg_color=0B0C10&title_color=F97316&icon_color=22C55E&text_color=9CA3AF&border_color=1F2937" alt="GitHub statistics" height="170"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dan686&layout=compact&theme=dark&bg_color=0B0C10&title_color=F97316&text_color=9CA3AF&border_color=1F2937" alt="Top languages" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-dan686&bg_color=0B0C10&color=F97316&line=22C55E&point=F97316&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=m-dan686&bg_color=0B0C10&color=F97316&line=22C55E&point=F97316&area=true&hide_border=true"
+  alt="GitHub contribution activity graph"
+  width="100%"
+/>
 
 <br/><br/>
 
 <a href="https://github.com/m-dan686">
-<img src="https://img.shields.io/github/followers/m-dan686?label=Followers&style=for-the-badge&color=166534&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img
+    src="https://img.shields.io/github/followers/m-dan686?label=Followers&style=for-the-badge&color=166534&logo=github&logoColor=white"
+    alt="GitHub followers"
+  />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/m-dan686?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-Explore-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-Explore-F97316?style=for-the-badge&logo=github&logoColor=white"
+    alt="Public repositories"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/m-dan686?tab=stars">
+  <img
+    src="https://img.shields.io/badge/Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
 </a>
 
 </div>
