@@ -1,0 +1,121 @@
+<svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" width="900" height="320">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0C10;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#111827;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glowOrange" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#F97316;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#F97316;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#22C55E;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#22C55E;stop-opacity:0" />
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="320" fill="url(#bgGrad)" rx="12"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#1F2937" stroke-width="0.5" opacity="0.6">
+    <line x1="0" y1="40" x2="900" y2="40"/><line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="200" x2="900" y2="200"/><line x1="0" y1="240" x2="900" y2="240"/>
+    <line x1="0" y1="280" x2="900" y2="280"/>
+    <line x1="60" y1="0" x2="60" y2="320"/><line x1="120" y1="0" x2="120" y2="320"/>
+    <line x1="180" y1="0" x2="180" y2="320"/><line x1="240" y1="0" x2="240" y2="320"/>
+    <line x1="300" y1="0" x2="300" y2="320"/><line x1="360" y1="0" x2="360" y2="320"/>
+    <line x1="420" y1="0" x2="420" y2="320"/><line x1="480" y1="0" x2="480" y2="320"/>
+    <line x1="540" y1="0" x2="540" y2="320"/><line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="660" y1="0" x2="660" y2="320"/><line x1="720" y1="0" x2="720" y2="320"/>
+    <line x1="780" y1="0" x2="780" y2="320"/><line x1="840" y1="0" x2="840" y2="320"/>
+  </g>
+
+  <!-- Ambient glow spots -->
+  <ellipse cx="160" cy="160" rx="180" ry="120" fill="url(#glowOrange)"/>
+  <ellipse cx="740" cy="160" rx="180" ry="120" fill="url(#glowGreen)"/>
+
+  <!-- Floating particles -->
+  <circle cx="80" cy="60" r="2" fill="#F97316" opacity="0.7">
+    <animate attributeName="cy" values="60;50;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="80" r="1.5" fill="#22C55E" opacity="0.6">
+    <animate attributeName="cy" values="80;70;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="50" cy="250" r="2" fill="#22C55E" opacity="0.5">
+    <animate attributeName="cy" values="250;240;250" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="240" r="1.5" fill="#F97316" opacity="0.6">
+    <animate attributeName="cy" values="240;230;240" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="290" r="1.5" fill="#F97316" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="30" r="2" fill="#22C55E" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Connecting lines (neural net feel) -->
+  <line x1="80" y1="60" x2="140" y2="290" stroke="#F97316" stroke-width="0.5" opacity="0.15"/>
+  <line x1="820" y1="80" x2="760" y2="30" stroke="#22C55E" stroke-width="0.5" opacity="0.15"/>
+  <line x1="50" y1="250" x2="140" y2="290" stroke="#22C55E" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Orange border top -->
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#F97316" stroke-width="2" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- MA LOGO centered left -->
+  <!-- Outer rotating ring -->
+  <g transform="translate(150,160)">
+    <circle cx="0" cy="0" r="52" fill="none" stroke="#F97316" stroke-width="1.5" stroke-dasharray="8 4" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#22C55E" stroke-width="1" stroke-dasharray="4 8" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" values="360;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <!-- MA text -->
+    <text x="0" y="8" font-family="monospace" font-size="28" font-weight="900" fill="#F97316" text-anchor="middle" filter="url(#glow)">MA</text>
+    <!-- Orbiting dot -->
+    <circle cx="52" cy="0" r="4" fill="#22C55E" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-40" cy="0" r="3" fill="#F97316" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" values="360;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse ring -->
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#F97316" stroke-width="1" opacity="0.3">
+      <animate attributeName="r" values="28;34;28" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main text block -->
+  <text x="300" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="900" fill="#F9FAFB" filter="url(#glow)">MANU ANANDAN G</text>
+  <rect x="300" y="115" width="200" height="2" fill="#F97316">
+    <animate attributeName="width" values="0;200" dur="1s" begin="0.5s" fill="freeze"/>
+  </rect>
+  <text x="300" y="150" font-family="monospace" font-size="13" fill="#22C55E" letter-spacing="3">3RD-YEAR B.TECH IT STUDENT</text>
+  <text x="300" y="176" font-family="monospace" font-size="13" fill="#9CA3AF" letter-spacing="2">ASPIRING SOFTWARE ENGINEER</text>
+  <text x="300" y="202" font-family="monospace" font-size="13" fill="#9CA3AF" letter-spacing="2">AI &amp; ML ENTHUSIAST</text>
+  <text x="300" y="235" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6B7280">Sri Krishna College of Technology, Coimbatore · CGPA 8.70</text>
+
+  <!-- Status indicator -->
+  <circle cx="300" cy="262" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="312" y="266" font-family="monospace" font-size="11" fill="#22C55E">SYSTEM ONLINE</text>
+
+  <!-- Border frame -->
+  <rect x="2" y="2" width="896" height="316" rx="10" fill="none" stroke="#1F2937" stroke-width="1"/>
+</svg>

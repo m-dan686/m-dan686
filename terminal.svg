@@ -1,0 +1,114 @@
+<svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg" width="700" height="300">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0C10"/>
+      <stop offset="100%" style="stop-color:#0d0e14"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect width="700" height="300" rx="10" fill="url(#termBg)"/>
+  <rect width="700" height="300" rx="10" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="36" rx="10" fill="#111827"/>
+  <rect x="0" y="26" width="700" height="10" fill="#111827"/>
+
+  <!-- Window dots -->
+  <circle cx="22" cy="18" r="5" fill="#EF4444" opacity="0.8"/>
+  <circle cx="40" cy="18" r="5" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="58" cy="18" r="5" fill="#22C55E" opacity="0.8"/>
+
+  <!-- Title -->
+  <text x="350" y="23" font-family="monospace" font-size="11" fill="#6B7280" text-anchor="middle">manu@github: ~</text>
+
+  <!-- Terminal content lines -->
+  <!-- Line 1 -->
+  <text x="20" y="68" font-family="monospace" font-size="12" fill="#22C55E">manu@github</text>
+  <text x="112" y="68" font-family="monospace" font-size="12" fill="#9CA3AF">:</text>
+  <text x="118" y="68" font-family="monospace" font-size="12" fill="#F97316">~</text>
+  <text x="128" y="68" font-family="monospace" font-size="12" fill="#9CA3AF">$</text>
+  <text x="138" y="68" font-family="monospace" font-size="12" fill="#F9FAFB"> whoami</text>
+
+  <text x="20" y="88" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    Manu Anandan G
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1;0.15;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 2 -->
+  <text x="20" y="114" font-family="monospace" font-size="12" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.25;1" dur="8s" repeatCount="indefinite"/>
+    manu@github
+  </text>
+  <text x="112" y="114" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.25;1" dur="8s" repeatCount="indefinite"/>
+    :
+  </text>
+  <text x="118" y="114" font-family="monospace" font-size="12" fill="#F97316" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.25;1" dur="8s" repeatCount="indefinite"/>
+    ~
+  </text>
+  <text x="128" y="114" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.25;1" dur="8s" repeatCount="indefinite"/>
+    $
+  </text>
+  <text x="138" y="114" font-family="monospace" font-size="12" fill="#F9FAFB" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.25;1" dur="8s" repeatCount="indefinite"/>
+     focus
+  </text>
+
+  <text x="20" y="134" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3;0.35;1" dur="8s" repeatCount="indefinite"/>
+    Software Engineering + AI / ML
+  </text>
+
+  <!-- Line 3 -->
+  <text x="20" y="160" font-family="monospace" font-size="12" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.45;1" dur="8s" repeatCount="indefinite"/>
+    manu@github
+  </text>
+  <text x="112" y="160" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.45;1" dur="8s" repeatCount="indefinite"/>
+    :~$
+  </text>
+  <text x="138" y="160" font-family="monospace" font-size="12" fill="#F9FAFB" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.45;1" dur="8s" repeatCount="indefinite"/>
+     build
+  </text>
+
+  <text x="20" y="180" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.55;1" dur="8s" repeatCount="indefinite"/>
+    Practical Software Solutions
+  </text>
+
+  <!-- Line 4 -->
+  <text x="20" y="206" font-family="monospace" font-size="12" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.65;1" dur="8s" repeatCount="indefinite"/>
+    manu@github
+  </text>
+  <text x="112" y="206" font-family="monospace" font-size="12" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.65;1" dur="8s" repeatCount="indefinite"/>
+    :~$
+  </text>
+  <text x="138" y="206" font-family="monospace" font-size="12" fill="#F9FAFB" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.65;1" dur="8s" repeatCount="indefinite"/>
+     status
+  </text>
+
+  <text x="20" y="226" font-family="monospace" font-size="13" fill="#22C55E" font-weight="bold" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7;0.75;1" dur="8s" repeatCount="indefinite"/>
+    ONLINE
+  </text>
+
+  <!-- Blinking cursor on last line -->
+  <text x="20" y="260" font-family="monospace" font-size="12" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8;0.85;1" dur="8s" repeatCount="indefinite"/>
+    manu@github:~$
+  </text>
+  <rect x="163" y="247" width="8" height="14" fill="#F97316" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1" keyTimes="0;0.84;0.86;0.88;0.92;0.96;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Orange accent line -->
+  <line x1="0" y1="299" x2="700" y2="299" stroke="#F97316" stroke-width="1.5" opacity="0.5"/>
+</svg>

@@ -1,0 +1,66 @@
+<svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0C10"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="200" rx="10" fill="url(#panelBg)"/>
+  <rect width="700" height="200" rx="10" fill="none" stroke="#F97316" stroke-width="1.2" opacity="0.7"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="34" rx="10" fill="#111827"/>
+  <rect x="0" y="24" width="700" height="10" fill="#111827"/>
+  <text x="350" y="22" font-family="monospace" font-size="11" fill="#F97316" text-anchor="middle" letter-spacing="3">MANU.DEV // SYSTEM STATUS</text>
+
+  <!-- Status rows -->
+  <!-- Row 1: Software Development -->
+  <circle cx="40" cy="72" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="77" font-family="monospace" font-size="12" fill="#9CA3AF">SOFTWARE DEVELOPMENT</text>
+  <!-- Progress bar -->
+  <rect x="280" y="64" width="280" height="8" rx="4" fill="#1F2937"/>
+  <rect x="280" y="64" width="260" height="8" rx="4" fill="#22C55E" opacity="0.7">
+    <animate attributeName="width" values="0;260" dur="2s" fill="freeze"/>
+  </rect>
+  <text x="580" y="75" font-family="monospace" font-size="10" fill="#22C55E">ACTIVE</text>
+
+  <!-- Row 2: AI / ML -->
+  <circle cx="40" cy="103" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="108" font-family="monospace" font-size="12" fill="#9CA3AF">ARTIFICIAL INTELLIGENCE / ML</text>
+  <rect x="280" y="95" width="280" height="8" rx="4" fill="#1F2937"/>
+  <rect x="280" y="95" width="240" height="8" rx="4" fill="#F97316" opacity="0.7">
+    <animate attributeName="width" values="0;240" dur="2.2s" fill="freeze"/>
+  </rect>
+  <text x="580" y="106" font-family="monospace" font-size="10" fill="#22C55E">ACTIVE</text>
+
+  <!-- Row 3: Data Science -->
+  <circle cx="40" cy="134" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="139" font-family="monospace" font-size="12" fill="#9CA3AF">DATA SCIENCE</text>
+  <rect x="280" y="126" width="280" height="8" rx="4" fill="#1F2937"/>
+  <rect x="280" y="126" width="220" height="8" rx="4" fill="#22C55E" opacity="0.7">
+    <animate attributeName="width" values="0;220" dur="2.4s" fill="freeze"/>
+  </rect>
+  <text x="580" y="137" font-family="monospace" font-size="10" fill="#22C55E">ACTIVE</text>
+
+  <!-- Row 4: React Development -->
+  <circle cx="40" cy="165" r="5" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="170" font-family="monospace" font-size="12" fill="#9CA3AF">REACT DEVELOPMENT</text>
+  <rect x="280" y="157" width="280" height="8" rx="4" fill="#1F2937"/>
+  <rect x="280" y="157" width="200" height="8" rx="4" fill="#F97316" opacity="0.7">
+    <animate attributeName="width" values="0;200" dur="2.6s" fill="freeze"/>
+  </rect>
+  <text x="580" y="168" font-family="monospace" font-size="10" fill="#22C55E">ACTIVE</text>
+
+  <!-- Orange separator -->
+  <line x1="20" y1="186" x2="680" y2="186" stroke="#1F2937" stroke-width="1"/>
+  <text x="350" y="197" font-family="monospace" font-size="9" fill="#374151" text-anchor="middle" letter-spacing="2">[ Visual labels — not quantitative scores ]</text>
+</svg>
