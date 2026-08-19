@@ -328,26 +328,27 @@ A responsive, interactive personal portfolio built with React.js showcasing skil
 
 </div>
 
+
 ## 🏆 Highlights
 
-- 🥉 **3rd Rank — IT Department** across 2nd & 3rd semesters at Sri Krishna College of Technology
-- 🎓 **Class Representative** for 2 consecutive years
+- 🥉 **3rd Rank — IT Department** · 2nd & 3rd Semesters
+- 🎓 **Class Representative** · 2 Consecutive Years
 - 👨‍💼 **Secretary — Ignite Tech Community**
 
 ## 📜 Certifications
 
-- **Programming, Data Structures & Algorithms using Python** — NPTEL / IIT Madras · Score: 60% · Jul–Sep 2025
-- **Introduction to Large Language Models (LLMs)** — NPTEL / IIT Madras · Score: 54% · Jan–Apr 2026
-- **AWS Cloud Practitioner Essentials** — AWS Training & Certification · Completed Jul 2026
+- **Programming, Data Structures & Algorithms using Python** — NPTEL / IIT Madras · 60%
+- **Introduction to Large Language Models (LLMs)** — NPTEL / IIT Madras · 54%
+- **AWS Cloud Practitioner Essentials** — AWS Training & Certification
 - **Object-Oriented Design** — University of Alberta · Coursera
 - **Java Programming: Comprehensive Bootcamp** — Infosys Springboard
 - **Multi-Paradigm Programming with Modern C++** — Infosys Springboard
 
-## 🏁 Technical Participation
+## 🏁 Hackathons & Technical Participation
 
-- **VEL IDEAFORGE 2K26** — National Level 24-Hour Hackathon · Vel Tech Rangarajan Dr. Sagunthala R&D Institute · February 19–20, 2026 · Participant
-- **KRIYA Ideathon 2026** — PSG College of Technology Students Union · March 13–15, 2026 · Participant
-- **Paper Presentation — Digital Innovators** — Sri Ramakrishna Engineering College · SREC Utsava'26 · January 30–31, 2026 · Participant
+- 🏆 **VEL IDEAFORGE 2K26** — National Level 24-Hour Hackathon · Vel Tech
+- 💡 **KRIYA Ideathon 2026** — PSG College of Technology
+- 🎤 **Digital Innovators — Paper Presentation** · SREC Utsava'26 · Sri Ramakrishna Engineering College
 
 ## 🌐 Connect
 
